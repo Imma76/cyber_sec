@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "tuberculosis-awareness",
+    "default1": "cybersecurityawareness"
+  },
+  "targets": {
+    "tuberculosis-awareness": {
+      "hosting": {
+        "default": [
+          "cybersecurityawareness"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
